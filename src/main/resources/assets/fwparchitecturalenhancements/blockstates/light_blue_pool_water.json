@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "forge:fluid"
+  },
+  "variants": {
+    "light_blue_pool_water": [
+      {
+        "custom": {
+          "fluid": "light_blue_pool_water"
+        }
+      }
+    ]
+  }
+}

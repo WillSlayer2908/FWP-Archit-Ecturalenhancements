@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/aneling13",
+    "particle": "fwparchitecturalenhancements:blocks/aneling13"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/generic_light",
+    "particle": "fwparchitecturalenhancements:blocks/generic_light"
+  }
+}

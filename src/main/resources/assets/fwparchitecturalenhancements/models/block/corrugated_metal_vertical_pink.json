@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/orrugatedmetalertical10",
+    "particle": "fwparchitecturalenhancements:blocks/orrugatedmetalertical10"
+  }
+}

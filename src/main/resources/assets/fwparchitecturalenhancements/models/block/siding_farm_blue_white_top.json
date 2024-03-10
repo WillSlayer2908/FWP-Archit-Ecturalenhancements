@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fwparchitecturalenhancements:blocks/farmhousesidingbluewhitem",
+    "up": "fwparchitecturalenhancements:blocks/farmhousesidingbluewhitem",
+    "north": "fwparchitecturalenhancements:blocks/farmhousesidingbluewhitet",
+    "east": "fwparchitecturalenhancements:blocks/farmhousesidingbluewhitet",
+    "south": "fwparchitecturalenhancements:blocks/farmhousesidingbluewhitet",
+    "west": "fwparchitecturalenhancements:blocks/farmhousesidingbluewhitet",
+    "particle": "fwparchitecturalenhancements:blocks/farmhousesidingbluewhitem"
+  }
+}

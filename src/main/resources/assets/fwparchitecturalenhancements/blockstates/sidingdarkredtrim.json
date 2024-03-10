@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "fwparchitecturalenhancements:sidingdarkredtrim"
+    },
+    "facing=north": {
+      "model": "fwparchitecturalenhancements:sidingdarkredtrim"
+    },
+    "facing=east": {
+      "model": "fwparchitecturalenhancements:sidingdarkredtrim",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fwparchitecturalenhancements:sidingdarkredtrim",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fwparchitecturalenhancements:sidingdarkredtrim",
+      "y": 270
+    }
+  }
+}

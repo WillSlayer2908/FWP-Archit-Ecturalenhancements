@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "fwparchitecturalenhancements:woodbeamsruce"
+    },
+    "facing=south": {
+      "model": "fwparchitecturalenhancements:woodbeamsruce"
+    },
+    "facing=north": {
+      "model": "fwparchitecturalenhancements:woodbeamsruce"
+    },
+    "facing=east": {
+      "model": "fwparchitecturalenhancements:woodbeamsruce",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "fwparchitecturalenhancements:woodbeamsruce",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "fwparchitecturalenhancements:woodbeamsruce",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "fwparchitecturalenhancements:woodbeamsruce",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

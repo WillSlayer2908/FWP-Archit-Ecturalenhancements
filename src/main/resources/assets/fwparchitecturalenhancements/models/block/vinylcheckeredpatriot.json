@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/inyl18",
+    "particle": "fwparchitecturalenhancements:blocks/inyl18"
+  }
+}

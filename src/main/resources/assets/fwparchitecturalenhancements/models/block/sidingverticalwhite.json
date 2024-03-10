@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/70s_hite_iding",
+    "particle": "fwparchitecturalenhancements:blocks/70s_hite_iding"
+  }
+}

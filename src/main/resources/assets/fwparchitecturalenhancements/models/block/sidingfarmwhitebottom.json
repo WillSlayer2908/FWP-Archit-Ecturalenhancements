@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fwparchitecturalenhancements:blocks/armouseidinghite2",
+    "up": "fwparchitecturalenhancements:blocks/armouseidinghite2",
+    "north": "fwparchitecturalenhancements:blocks/armouseidinghite1",
+    "east": "fwparchitecturalenhancements:blocks/armouseidinghite1",
+    "south": "fwparchitecturalenhancements:blocks/armouseidinghite1",
+    "west": "fwparchitecturalenhancements:blocks/armouseidinghite1",
+    "particle": "fwparchitecturalenhancements:blocks/armouseidinghite2"
+  }
+}

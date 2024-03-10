@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/ime_ood_iding",
+    "particle": "fwparchitecturalenhancements:blocks/ime_ood_iding"
+  }
+}

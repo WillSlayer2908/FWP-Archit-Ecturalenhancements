@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/artlicle_oard",
+    "particle": "fwparchitecturalenhancements:blocks/artlicle_oard"
+  }
+}

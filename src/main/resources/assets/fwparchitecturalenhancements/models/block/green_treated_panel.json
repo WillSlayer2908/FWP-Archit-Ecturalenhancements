@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/green_treated_panel",
+    "particle": "fwparchitecturalenhancements:blocks/green_treated_panel"
+  }
+}

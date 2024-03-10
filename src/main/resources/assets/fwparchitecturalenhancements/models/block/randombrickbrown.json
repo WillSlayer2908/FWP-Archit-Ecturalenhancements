@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/andom_ubble_3",
+    "particle": "fwparchitecturalenhancements:blocks/andom_ubble_3"
+  }
+}

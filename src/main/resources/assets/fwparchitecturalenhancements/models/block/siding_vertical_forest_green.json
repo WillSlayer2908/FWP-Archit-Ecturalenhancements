@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/forest_green_70s_siding",
+    "particle": "fwparchitecturalenhancements:blocks/forest_green_70s_siding"
+  }
+}

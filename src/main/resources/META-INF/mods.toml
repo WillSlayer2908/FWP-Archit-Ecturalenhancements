@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+
+[[mods]]
+modId="fwparchitecturalenhancements"
+version="4.0.0"
+displayName="FWP Architectural Enhancements"
+credits="Created using Intellij Idea Community Edition - https://www.jetbrains.com/idea/"
+displayURL="https://www.jetbrains.com/idea/"
+authors="WillSlayer2, Crockno, Caspercat5, Athena"
+
+[[dependencies.fwparchitecturalenhancements]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.12.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

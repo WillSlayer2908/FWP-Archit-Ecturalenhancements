@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/commercial_tile_blue",
+    "particle": "fwparchitecturalenhancements:blocks/commercial_tile_blue"
+  }
+}

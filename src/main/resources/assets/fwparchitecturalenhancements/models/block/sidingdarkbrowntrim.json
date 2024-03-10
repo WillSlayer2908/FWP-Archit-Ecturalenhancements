@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fwparchitecturalenhancements:blocks/idingarkrown50",
+    "up": "fwparchitecturalenhancements:blocks/idingarkrown50",
+    "north": "fwparchitecturalenhancements:blocks/idingarkrownrim53",
+    "east": "fwparchitecturalenhancements:blocks/idingarkrownrim54",
+    "south": "fwparchitecturalenhancements:blocks/idingarkrownrim53",
+    "west": "fwparchitecturalenhancements:blocks/idingarkrownrim54",
+    "particle": "fwparchitecturalenhancements:blocks/idingarkrown50"
+  }
+}

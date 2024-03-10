@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fwparchitecturalenhancements:blocks/heetrock20446",
+    "up": "fwparchitecturalenhancements:blocks/heetrock20446",
+    "north": "fwparchitecturalenhancements:blocks/heetrock20_rim447",
+    "east": "fwparchitecturalenhancements:blocks/heetrock20_rim447",
+    "south": "fwparchitecturalenhancements:blocks/heetrock20_rim447",
+    "west": "fwparchitecturalenhancements:blocks/heetrock20_rim447",
+    "particle": "fwparchitecturalenhancements:blocks/heetrock20446"
+  }
+}

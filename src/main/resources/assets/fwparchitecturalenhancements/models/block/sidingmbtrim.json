@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fwparchitecturalenhancements:blocks/iding111",
+    "up": "fwparchitecturalenhancements:blocks/iding111",
+    "north": "fwparchitecturalenhancements:blocks/idingrim112",
+    "east": "fwparchitecturalenhancements:blocks/idingrim113",
+    "south": "fwparchitecturalenhancements:blocks/idingrim112",
+    "west": "fwparchitecturalenhancements:blocks/idingrim113",
+    "particle": "fwparchitecturalenhancements:blocks/iding111"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "fwparchitecturalenhancements:woodbeamebony"
+    },
+    "facing=south": {
+      "model": "fwparchitecturalenhancements:woodbeamebony"
+    },
+    "facing=north": {
+      "model": "fwparchitecturalenhancements:woodbeamebony"
+    },
+    "facing=east": {
+      "model": "fwparchitecturalenhancements:woodbeamebony",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "fwparchitecturalenhancements:woodbeamebony",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "fwparchitecturalenhancements:woodbeamebony",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "fwparchitecturalenhancements:woodbeamebony",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

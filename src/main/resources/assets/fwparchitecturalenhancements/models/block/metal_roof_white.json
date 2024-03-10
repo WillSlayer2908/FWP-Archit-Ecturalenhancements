@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/etaloof2",
+    "particle": "fwparchitecturalenhancements:blocks/etaloof2"
+  }
+}

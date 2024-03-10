@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/herry_ood_eam",
+    "particle": "fwparchitecturalenhancements:blocks/herry_ood_eam"
+  }
+}

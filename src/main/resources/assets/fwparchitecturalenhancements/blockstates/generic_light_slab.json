@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "fwparchitecturalenhancements:generic_light_slab"
+    },
+    "half=top,variant=default": {
+      "model": "fwparchitecturalenhancements:generic_light_slab_top"
+    }
+  }
+}

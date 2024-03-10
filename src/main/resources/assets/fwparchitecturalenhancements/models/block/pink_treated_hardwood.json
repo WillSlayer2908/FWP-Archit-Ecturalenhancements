@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/pink_treated_hardwood",
+    "particle": "fwparchitecturalenhancements:blocks/pink_treated_hardwood"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "fwparchitecturalenhancements",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:concrete_powder",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:concrete_powder",
+      "data": 15
+    },
+    "2": {
+      "item": "minecraft:concrete_powder",
+      "data": 15
+    },
+    "3": {
+      "item": "minecraft:concrete_powder",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "fwparchitecturalenhancements:vinyltileblackwhite",
+    "count": 16
+  }
+}

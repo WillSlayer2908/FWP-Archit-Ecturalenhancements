@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/light_blue_large_siding",
+    "particle": "fwparchitecturalenhancements:blocks/light_blue_large_siding"
+  }
+}

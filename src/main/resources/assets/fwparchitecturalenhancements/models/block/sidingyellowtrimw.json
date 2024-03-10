@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fwparchitecturalenhancements:blocks/idingellow161",
+    "up": "fwparchitecturalenhancements:blocks/idingellow161",
+    "north": "fwparchitecturalenhancements:blocks/idingellowrim166",
+    "east": "fwparchitecturalenhancements:blocks/idingellowrim167",
+    "south": "fwparchitecturalenhancements:blocks/idingellowrim166",
+    "west": "fwparchitecturalenhancements:blocks/idingellowrim167",
+    "particle": "fwparchitecturalenhancements:blocks/idingellow161"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/yardmiddledarktop",
+    "particle": "fwparchitecturalenhancements:blocks/yardmiddledarktop"
+  }
+}

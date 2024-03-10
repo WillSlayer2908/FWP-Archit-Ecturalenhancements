@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/lime_large_siding",
+    "particle": "fwparchitecturalenhancements:blocks/lime_large_siding"
+  }
+}

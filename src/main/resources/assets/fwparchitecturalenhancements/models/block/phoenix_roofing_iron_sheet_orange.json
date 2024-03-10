@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/ironsheet1",
+    "particle": "fwparchitecturalenhancements:blocks/ironsheet1"
+  }
+}

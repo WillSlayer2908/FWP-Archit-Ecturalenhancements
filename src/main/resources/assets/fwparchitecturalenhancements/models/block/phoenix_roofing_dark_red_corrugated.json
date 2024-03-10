@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/darkredcorrugated",
+    "particle": "fwparchitecturalenhancements:blocks/darkredcorrugated"
+  }
+}

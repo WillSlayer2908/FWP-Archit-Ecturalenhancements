@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/arpet9",
+    "particle": "fwparchitecturalenhancements:blocks/arpet9"
+  }
+}

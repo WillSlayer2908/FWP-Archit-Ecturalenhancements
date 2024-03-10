@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/rick19",
+    "particle": "fwparchitecturalenhancements:blocks/rick19"
+  }
+}

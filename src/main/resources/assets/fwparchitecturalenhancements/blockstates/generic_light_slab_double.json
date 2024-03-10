@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "fwparchitecturalenhancements:generic_light_slab_double"
+    }
+  }
+}

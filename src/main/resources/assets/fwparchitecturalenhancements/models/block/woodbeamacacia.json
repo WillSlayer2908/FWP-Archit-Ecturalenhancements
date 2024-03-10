@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/cacia_ood_eam",
+    "particle": "fwparchitecturalenhancements:blocks/cacia_ood_eam"
+  }
+}

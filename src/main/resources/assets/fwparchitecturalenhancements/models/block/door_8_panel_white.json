@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/doorpanel3",
+    "particle": "fwparchitecturalenhancements:blocks/doorpanel3"
+  }
+}

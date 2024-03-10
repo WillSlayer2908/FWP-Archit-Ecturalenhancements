@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/tainedconcrete4",
+    "particle": "fwparchitecturalenhancements:blocks/tainedconcrete4"
+  }
+}

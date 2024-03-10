@@ -1,0 +1,10 @@
+{
+  "parent": "fwparchitecturalenhancements:custom/counterblankmidred",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/twilightwood",
+    "particle": "fwparchitecturalenhancements:blocks/twilightwood",
+    "0": "fwparchitecturalenhancements:blocks/tainedconcrete20",
+    "1": "fwparchitecturalenhancements:blocks/twilightwood",
+    "missing": "fwparchitecturalenhancements:blocks/twilightwood"
+  }
+}

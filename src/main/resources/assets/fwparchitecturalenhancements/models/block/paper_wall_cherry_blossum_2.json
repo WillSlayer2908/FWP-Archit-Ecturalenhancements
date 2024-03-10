@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/paperwallcherryblossum2",
+    "particle": "fwparchitecturalenhancements:blocks/paperwallcherryblossum2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/ellow_ood_iding",
+    "particle": "fwparchitecturalenhancements:blocks/ellow_ood_iding"
+  }
+}

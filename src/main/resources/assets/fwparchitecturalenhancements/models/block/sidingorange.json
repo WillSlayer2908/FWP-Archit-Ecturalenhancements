@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/idingrange121",
+    "particle": "fwparchitecturalenhancements:blocks/idingrange121"
+  }
+}

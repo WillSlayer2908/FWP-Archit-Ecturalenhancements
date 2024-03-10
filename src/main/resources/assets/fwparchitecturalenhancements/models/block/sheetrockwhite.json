@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/heetrock1412",
+    "particle": "fwparchitecturalenhancements:blocks/heetrock1412"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/hingle12",
+    "particle": "fwparchitecturalenhancements:blocks/hingle12"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/auxetaleilingile3",
+    "particle": "fwparchitecturalenhancements:blocks/auxetaleilingile3"
+  }
+}

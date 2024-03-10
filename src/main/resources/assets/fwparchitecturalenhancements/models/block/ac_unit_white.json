@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fwparchitecturalenhancements:blocks/ac_blank01",
+    "up": "fwparchitecturalenhancements:blocks/ac_fan01",
+    "north": "fwparchitecturalenhancements:blocks/ac_side01",
+    "east": "fwparchitecturalenhancements:blocks/ac_side01",
+    "south": "fwparchitecturalenhancements:blocks/ac_blank01",
+    "west": "fwparchitecturalenhancements:blocks/ac_side01",
+    "particle": "fwparchitecturalenhancements:blocks/ac_blank01"
+  }
+}

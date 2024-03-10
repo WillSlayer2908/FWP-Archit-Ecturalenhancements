@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/poollightgray",
+    "particle": "fwparchitecturalenhancements:blocks/poollightgray"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/oldtile5",
+    "particle": "fwparchitecturalenhancements:blocks/oldtile5"
+  }
+}

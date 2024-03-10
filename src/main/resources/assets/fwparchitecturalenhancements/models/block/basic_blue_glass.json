@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fwparchitecturalenhancements:blocks/basicblueglass",
+    "particle": "fwparchitecturalenhancements:blocks/basicblueglass"
+  }
+}

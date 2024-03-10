@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fwparchitecturalenhancements:blocks/rey_ood_iding",
+    "up": "fwparchitecturalenhancements:blocks/rey_ood_iding",
+    "north": "fwparchitecturalenhancements:blocks/rey_ood_iding",
+    "east": "fwparchitecturalenhancements:blocks/rey_ood_iding",
+    "south": "fwparchitecturalenhancements:blocks/rey_ood_iding",
+    "west": "fwparchitecturalenhancements:blocks/rey_ood_iding",
+    "particle": "fwparchitecturalenhancements:blocks/rey_ood_iding"
+  }
+}
