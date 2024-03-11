@@ -1,7 +1,7 @@
 package net.fwparchitecturalenhancements.block.ExteriorDeco;
 
 import net.fwparchitecturalenhancements.Elements;
-import net.fwparchitecturalenhancements.creativetab.TabArchitecturalEnhancements;
+import net.fwparchitecturalenhancements.creativetab.CreativeTabExteriorDeco;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockHorizontal;
 import net.minecraft.block.SoundType;
@@ -57,7 +57,7 @@ public class BlockSiding3jmTrimD extends Elements.ModElement {
             setResistance(10F);
             setLightLevel(0F);
             setLightOpacity(255);
-            setCreativeTab(TabArchitecturalEnhancements.ExteriorDeco);
+            setCreativeTab(CreativeTabExteriorDeco.ExteriorDeco);
             this.setDefaultState(this.blockState.getBaseState().withProperty(FACING, EnumFacing.NORTH));
         }
 

@@ -1,21 +1,19 @@
 
 package net.fwparchitecturalenhancements.block.InteriorDeco;
 
-import net.minecraftforge.fml.relauncher.SideOnly;
-import net.minecraftforge.fml.relauncher.Side;
-import net.minecraftforge.fml.common.registry.GameRegistry;
-import net.minecraftforge.client.model.ModelLoader;
-import net.minecraftforge.client.event.ModelRegistryEvent;
-
-import net.minecraft.item.ItemBlock;
-import net.minecraft.item.Item;
-import net.minecraft.client.renderer.block.model.ModelResourceLocation;
-import net.minecraft.block.material.Material;
-import net.minecraft.block.SoundType;
-import net.minecraft.block.Block;
-
-import net.fwparchitecturalenhancements.creativetab.TabArchitecturalEnhancements;
 import net.fwparchitecturalenhancements.Elements;
+import net.fwparchitecturalenhancements.creativetab.CreativeTabInteriorDeco;
+import net.minecraft.block.Block;
+import net.minecraft.block.SoundType;
+import net.minecraft.block.material.Material;
+import net.minecraft.client.renderer.block.model.ModelResourceLocation;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemBlock;
+import net.minecraftforge.client.event.ModelRegistryEvent;
+import net.minecraftforge.client.model.ModelLoader;
+import net.minecraftforge.fml.common.registry.GameRegistry;
+import net.minecraftforge.fml.relauncher.Side;
+import net.minecraftforge.fml.relauncher.SideOnly;
 
 @Elements.ModElement.Tag
 public class BlockWhiteCommercialWall extends Elements.ModElement {
@@ -47,7 +45,7 @@ public class BlockWhiteCommercialWall extends Elements.ModElement {
 			setResistance(10F);
 			setLightLevel(0F);
 			setLightOpacity(255);
-			setCreativeTab(TabArchitecturalEnhancements.InteriorDeco);
+			setCreativeTab(CreativeTabInteriorDeco.InteriorDeco);
 		}
 	}
 }

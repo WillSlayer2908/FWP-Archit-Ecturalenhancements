@@ -1,23 +1,21 @@
 
 package net.fwparchitecturalenhancements.block.Misc;
 
-import net.minecraftforge.fml.relauncher.SideOnly;
-import net.minecraftforge.fml.relauncher.Side;
-import net.minecraftforge.fml.common.registry.GameRegistry;
-import net.minecraftforge.client.model.ModelLoader;
-import net.minecraftforge.client.event.ModelRegistryEvent;
-
-import net.minecraft.util.BlockRenderLayer;
-import net.minecraft.item.ItemBlock;
-import net.minecraft.item.Item;
-import net.minecraft.client.renderer.block.model.ModelResourceLocation;
-import net.minecraft.block.state.IBlockState;
-import net.minecraft.block.material.Material;
-import net.minecraft.block.SoundType;
-import net.minecraft.block.Block;
-
-import net.fwparchitecturalenhancements.creativetab.TabArchitecturalEnhancements;
 import net.fwparchitecturalenhancements.Elements;
+import net.fwparchitecturalenhancements.creativetab.CreativeTabMisc;
+import net.minecraft.block.Block;
+import net.minecraft.block.SoundType;
+import net.minecraft.block.material.Material;
+import net.minecraft.block.state.IBlockState;
+import net.minecraft.client.renderer.block.model.ModelResourceLocation;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemBlock;
+import net.minecraft.util.BlockRenderLayer;
+import net.minecraftforge.client.event.ModelRegistryEvent;
+import net.minecraftforge.client.model.ModelLoader;
+import net.minecraftforge.fml.common.registry.GameRegistry;
+import net.minecraftforge.fml.relauncher.Side;
+import net.minecraftforge.fml.relauncher.SideOnly;
 
 @Elements.ModElement.Tag
 public class BlockUrbanWhiteSide extends Elements.ModElement {
@@ -49,7 +47,7 @@ public class BlockUrbanWhiteSide extends Elements.ModElement {
 			setResistance(10F);
 			setLightLevel(0.05F);
 			setLightOpacity(50);
-			setCreativeTab(TabArchitecturalEnhancements.Misc);
+			setCreativeTab(CreativeTabMisc.Misc);
 		}
 
 		@SideOnly(Side.CLIENT)

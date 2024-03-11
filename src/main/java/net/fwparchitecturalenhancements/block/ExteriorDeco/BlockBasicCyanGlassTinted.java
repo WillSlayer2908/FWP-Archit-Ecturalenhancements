@@ -1,7 +1,7 @@
 package net.fwparchitecturalenhancements.block.ExteriorDeco;
 
 import net.fwparchitecturalenhancements.Elements;
-import net.fwparchitecturalenhancements.creativetab.TabArchitecturalEnhancements;
+import net.fwparchitecturalenhancements.creativetab.CreativeTabExteriorDeco;
 import net.minecraft.block.Block;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
@@ -53,7 +53,7 @@ public class BlockBasicCyanGlassTinted extends Elements.ModElement {
             setResistance(10F);
             setLightLevel(0.05F);
             setLightOpacity(42);
-            setCreativeTab(TabArchitecturalEnhancements.ExteriorDeco);
+            setCreativeTab(CreativeTabExteriorDeco.ExteriorDeco);
         }
 
         @Override

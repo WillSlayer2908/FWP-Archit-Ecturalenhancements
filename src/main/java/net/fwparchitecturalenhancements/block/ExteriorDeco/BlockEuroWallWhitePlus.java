@@ -1,7 +1,7 @@
 package net.fwparchitecturalenhancements.block.ExteriorDeco;
 
 import net.fwparchitecturalenhancements.Elements;
-import net.fwparchitecturalenhancements.creativetab.TabArchitecturalEnhancements;
+import net.fwparchitecturalenhancements.creativetab.CreativeTabExteriorDeco;
 import net.minecraft.block.Block;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
@@ -46,7 +46,7 @@ public class BlockEuroWallWhitePlus extends Elements.ModElement {
             setResistance(10F);
             setLightLevel(0F);
             setLightOpacity(255);
-            setCreativeTab(TabArchitecturalEnhancements.ExteriorDeco);
+            setCreativeTab(CreativeTabExteriorDeco.ExteriorDeco);
         }
     }
 }

@@ -14,7 +14,7 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.Block;
 
-import net.fwparchitecturalenhancements.creativetab.TabArchitecturalEnhancements;
+import net.fwparchitecturalenhancements.creativetab.CreativeTabFlooring;
 import net.fwparchitecturalenhancements.Elements;
 
 @Elements.ModElement.Tag
@@ -47,7 +47,7 @@ public class BlockCommercialTilePurple extends Elements.ModElement {
 			setResistance(10F);
 			setLightLevel(0F);
 			setLightOpacity(255);
-			setCreativeTab(TabArchitecturalEnhancements.Flooring);
+			setCreativeTab(CreativeTabFlooring.Flooring);
 		}
 	}
 }

@@ -14,7 +14,7 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.Block;
 
-import net.fwparchitecturalenhancements.creativetab.TabArchitecturalEnhancements;
+import net.fwparchitecturalenhancements.creativetab.CreativeTabRoofing;
 import net.fwparchitecturalenhancements.Elements;
 
 @Elements.ModElement.Tag
@@ -46,7 +46,7 @@ public class BlockPhoenixRoofingOrangeCorrugated extends Elements.ModElement {
 			setResistance(10F);
 			setLightLevel(0F);
 			setLightOpacity(255);
-			setCreativeTab(TabArchitecturalEnhancements.Roofing);
+			setCreativeTab(CreativeTabRoofing.Roofing);
 		}
 	}
 }
