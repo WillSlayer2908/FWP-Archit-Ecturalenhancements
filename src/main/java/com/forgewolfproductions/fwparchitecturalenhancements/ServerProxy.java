@@ -1,21 +1,30 @@
 package com.forgewolfproductions.fwparchitecturalenhancements;
 
+import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
+import net.minecraftforge.fml.relauncher.Side;
 
-public class ServerProxy implements IProxy {
+@Mod.EventBusSubscriber(modid = FwparchitecturalenhancementsMod.MODID ,value = Side.SERVER)
+public class ServerProxy extends CommonProxy {
     @Override
-    public void preInit(FMLPreInitializationEvent event) {
+    public void preInitializationEvent(FMLPreInitializationEvent event) {
+        super.preInitializationEvent(event);
     }
+
     @Override
-    public void init(FMLInitializationEvent event) {
+    public void initializationEvent(FMLInitializationEvent event) {
+        super.initializationEvent(event);
     }
+
     @Override
-    public void postInit(FMLPostInitializationEvent event) {
+    public void postInitializationEvent(FMLPostInitializationEvent event) {
+        super.postInitializationEvent(event);
     }
     @Override
     public void serverLoad(FMLServerStartingEvent event) {
+
     }
 }
